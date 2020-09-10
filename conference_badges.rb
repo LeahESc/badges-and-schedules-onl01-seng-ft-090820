@@ -18,7 +18,7 @@ def assign_rooms(speaker_list)
   room_assignments
 end
     
-def printer(conference_badges)
+def printer
   batch_badge_creator.each { |badge_text| } 
   puts badge_text
   assign_rooms.each { |assignment| }
